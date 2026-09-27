@@ -260,7 +260,7 @@ Abaixo estão os resultados obtidos no notebook [`04_Analise_de_Negocio_SQL.ipyn
 * **Discussão para Direcionamento da IP:** Os dados comprovam que o suporte textual em Português-BR (interface e legendas) cresceu consistentemente na última década, tornando-se um requisito básico de higiene competitiva no Brasil. Mais importante: títulos com **Apenas Texto / Legenda PT-BR** e **Dublagem Completa** registram taxas médias de aprovação superiores e rompem a barreira de **20.000 cópias vendidas** em uma proporção muito maior do que jogos sem localização. Enquanto a tradução de texto entrega excelente relação custo-benefício logo no lançamento (*Day One*), a dublagem em áudio permanece escassa no mercado, funcionando como um poderoso diferencial de marketing caso o orçamento da nossa IP permita.
 
 > **Evidência 7 — Resultados SQL e Gráficos das Perguntas 1 e 2:**
-![Análise Perguntas 1 e 2](img/07_analise_p1_p2.png)
+![Análise Perguntas 1 e 2](img/07_analise_p1.png)(img/07_analise_p2.png)
 
 ---
 
@@ -278,7 +278,7 @@ Abaixo estão os resultados obtidos no notebook [`04_Analise_de_Negocio_SQL.ipyn
 * **Discussão para Direcionamento da IP:** Esta análise evita que a nossa empresa invista em um "Oceano Vermelho" (como jogos de plataforma/ação *Single-player* genéricos, que possuem milhares de lançamentos anuais e baixíssima taxa de conversão acima de 50 mil cópias). Os dados revelam que nichos que combinam **Simulation, Strategy ou RPG** — especialmente quando integrados a mecânicas **Multiplayer / Co-op** — possuem uma concorrência muito menor e apresentam as **maiores taxas percentuais de sucesso comercial (> 50k cópias) e retenção média de horas**.
 
 > **Evidência 9 — Resultado SQL da Pergunta 4 (Matriz de Oceano Azul para Nova IP):**
-![Análise Pergunta 4 IP](img/09_analise_ip_p4.png)
+![Análise Pergunta 4 IP](img/09_analise_ip_p4_p5.png)
 
 ---
 
